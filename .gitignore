@@ -1,4 +1,4 @@
-*
-!data/csrcz.txt
+/*
 !.gitignore
+!data/*
 !*.py
